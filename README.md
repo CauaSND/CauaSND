@@ -1,4 +1,4 @@
-# Hi, I'm Scalar123 | Backend Developer
+# Hi, I'm Cauã Silva | Backend Developer
 
 I am a Software Developer focused on building scalable, high-performance backend systems. I specialize in the **Java/Spring ecosystem** and modern cloud-native infrastructures.
 
